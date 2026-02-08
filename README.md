@@ -15,8 +15,8 @@ The application presents multiple-choice questions and calculates the final scor
 - CSS
 - JavaScript
 
+## Live Demo
 🚀 [Live Demo](https://quiz-nvn.netlify.app/)
-
 
 ## Purpose
 This project was created to practice JavaScript logic, state management, and DOM updates in an interactive application.
